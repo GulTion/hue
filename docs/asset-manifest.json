@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hue/static/css/main.273d2cda.chunk.css",
+    "main.css": "/hue/static/css/main.3f8a7c6b.chunk.css",
     "main.js": "/hue/static/js/main.d2778450.chunk.js",
     "main.js.map": "/hue/static/js/main.d2778450.chunk.js.map",
     "runtime-main.js": "/hue/static/js/runtime-main.3df726b3.js",
@@ -8,9 +8,9 @@
     "static/js/2.a4d434c9.chunk.js": "/hue/static/js/2.a4d434c9.chunk.js",
     "static/js/2.a4d434c9.chunk.js.map": "/hue/static/js/2.a4d434c9.chunk.js.map",
     "index.html": "/hue/index.html",
-    "precache-manifest.d9fd6b0614469643f79119c6db8604a1.js": "/hue/precache-manifest.d9fd6b0614469643f79119c6db8604a1.js",
+    "precache-manifest.515c4558c3494981db291e1cf2be9eac.js": "/hue/precache-manifest.515c4558c3494981db291e1cf2be9eac.js",
     "service-worker.js": "/hue/service-worker.js",
-    "static/css/main.273d2cda.chunk.css.map": "/hue/static/css/main.273d2cda.chunk.css.map",
+    "static/css/main.3f8a7c6b.chunk.css.map": "/hue/static/css/main.3f8a7c6b.chunk.css.map",
     "static/media/brush.svg": "/hue/static/media/brush.2f3a152c.svg",
     "static/media/close.svg": "/hue/static/media/close.ec5c8a5f.svg",
     "static/media/copy.svg": "/hue/static/media/copy.69ef65c9.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.3df726b3.js",
     "static/js/2.a4d434c9.chunk.js",
-    "static/css/main.273d2cda.chunk.css",
+    "static/css/main.3f8a7c6b.chunk.css",
     "static/js/main.d2778450.chunk.js"
   ]
 }

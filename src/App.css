@@ -20,10 +20,11 @@
   margin:0.5em 1em;
   font-size: 2em;
   padding: 0.25em 0.5em;
-  
-  
-  background: rgba(255, 255, 255, 0.7);
 
+  background: rgba(255, 255, 255, 0.7);
+  border-radius:10px; 
+  border: none;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 
 }
 
@@ -100,6 +101,8 @@ h5{
 }
 
 .recentBtn{
+  cursor: pointer;
+  padding: 0.5em;
   background: rgba(255, 255, 255, 0.7);
   border-radius:50%; 
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
